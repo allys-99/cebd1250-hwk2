@@ -1,0 +1,16 @@
+
+
+
+https://www.dataversity.net/big-data-trends-2019/#
+
+I chose this article because it describes what the latest trends in big data is.
+Big Data sounded very vague and very big.  It is an iceberg in the sense that 
+each time i learn something there is so much more to learn.  I am learning about
+visualizaiton and using python but there is a whole infrastructure that I need to 
+learn and be aware of such as the impact of cloud.  So i really enjoyed this 
+article because it is a good reference for the inner workings of everyday business.
+And things/techonlogy is chaning so fast I need to keep up.
+
+
+
+
